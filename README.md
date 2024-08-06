@@ -11,9 +11,14 @@
 * 기술 블로그에 코드에 대한 상세 설명을 기록하여 한 번 더 배운 것을 정리합니다.
 
 ## 규칙
-* Commit Message : [Keyword] SET - 문제 명_문제 번호
-* 폴더 규칙 : 본인 이름 - set - 문제 명_문제 번호
+* Commit Message : [Keyword] SET - 문제 유형_문제 번호
+* 폴더 규칙 : 본인 이름 - set - 문제 유형_문제 번호
 * Keyword
   * `Solve` : 풀이에 성공한 새로운 문제 추가
   * `Refactor` : 더 나은 풀이로 기존 코드 업데이트
-* Branch 규칙 : 본인 이름의 브랜치에서 코드 작성 후 main 브랜치에 merge
+* 협업 규칙
+  * repository를 fork 해서 로컬 repository에서 작업합니다.
+  * 작업 후 로컬 repository의 main branch에 push 합니다.
+  * pull request를 수행 후 코드 리뷰를 받습니다.
+  * branch명은 [이름-set-문제 유형]으로 작성합니다.
+  * 새로운 문제 유형을 풀 때 마다 새로운 브랜치를 생성 후 진행합니다.
