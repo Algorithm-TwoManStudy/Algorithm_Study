@@ -1,4 +1,4 @@
-package kyunghun.set1.a_1049;
+package kyunghun.set1.basic_implementation_1.p_1049;
 
 import java.util.Arrays;
 import java.util.Scanner;

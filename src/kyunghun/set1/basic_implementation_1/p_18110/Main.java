@@ -1,4 +1,4 @@
-package kyunghun.set1.a_18110;
+package kyunghun.set1.basic_implementation_1.p_18110;
 
 import java.io.BufferedReader;
 import java.io.IOException;
