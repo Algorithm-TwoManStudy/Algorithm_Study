@@ -1,4 +1,4 @@
-package youngsang.set1.default_implementation_1.p_5522;
+package youngsang.set1.basic_implementation_1.p_5522;
 
 import java.util.Scanner;
 
@@ -12,7 +12,5 @@ public class Main {
             a += score;
         }
         System.out.println(a);
-
-
     }
 }
