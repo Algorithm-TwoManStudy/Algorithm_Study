@@ -1,4 +1,4 @@
-package youngsang.set1.sorting_and_binary_search.p_2750;
+package youngsang.set1.sorting_and_binary_search_1.p_2750;
 
 import java.util.Arrays;
 import java.util.Scanner;
@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         int N = sc.nextInt();
         int[] arr = new int[N];
 
