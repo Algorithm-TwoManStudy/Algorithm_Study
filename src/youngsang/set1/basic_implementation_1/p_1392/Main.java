@@ -1,4 +1,4 @@
-package youngsang.set1.a_1392;
+package youngsang.set1.basic_implementation_1.p_1392;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -21,14 +21,13 @@ public class Main {
             for (int j = 0; j < time; j++) {
                 list.add(i);
             }
-
         }
+
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < Q; i++) {
             int question = Integer.parseInt(br.readLine());
             sb.append(list.get(question)).append('\n');
         }
         System.out.println(sb);
-
     }
 }
