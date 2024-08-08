@@ -11,8 +11,8 @@
 * 기술 블로그에 코드에 대한 상세 설명을 기록하여 한 번 더 배운 것을 정리합니다.
 
 ## 규칙
-* Commit Message : [Keyword] SET-문제유형 문제 번호_문제 이름 by 작성자
-* 폴더 규칙 : 본인 이름 - set - 문제 유형_문제 번호
+* Commit Message : [Keyword] SET-문제유형 문제 이름_문제 번호 by 작성자
+* 폴더 규칙 : 본인 이름 - set - 문제 유형 - 문제 번호
 * Keyword
   * `Solve` : 풀이에 성공한 새로운 문제 추가
   * `Refactor` : 더 나은 풀이로 기존 코드 업데이트
