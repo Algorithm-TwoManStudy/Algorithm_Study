@@ -1,4 +1,4 @@
-package kyunghun.set2.brute_force.p_18111;
+package kyunghun.set2.brute_force_1.p_18111;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
