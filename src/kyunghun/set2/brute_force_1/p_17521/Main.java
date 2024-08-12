@@ -1,4 +1,4 @@
-package kyunghun.set2.brute_force.p_17521;
+package kyunghun.set2.brute_force_1.p_17521;
 
 import java.io.BufferedReader;
 import java.io.IOException;
